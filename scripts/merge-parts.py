@@ -146,6 +146,15 @@ coverImage: {cover_abs}
     return frontmatter + body
 
 
+APPENDIX = {
+    "dir": "appendix",
+    "title": "跟鬼哥一起学OpenClaw（附录）：速查手册",
+    "summary": "CLI 命令速查、openclaw.json 配置参考、模型提供商选型指南、常见问题与排错——四篇附录，随用随查。",
+    "chapters": ["a-cli-reference", "b-config-reference", "c-model-providers", "d-troubleshooting"],
+    "cover": "appendix/images/a-cli-reference.jpg",
+}
+
+
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     for i, part in enumerate(PARTS, 1):
@@ -153,6 +162,13 @@ def main():
         content = merge_part(part)
         out_path.write_text(content, encoding="utf-8")
         print(f"✓ {out_path.name}  ({len(content):,} chars)")
+
+    # 附录单独生成
+    appendix_content = merge_part(APPENDIX)
+    appendix_path = OUT_DIR / "appendix.md"
+    appendix_path.write_text(appendix_content, encoding="utf-8")
+    print(f"✓ appendix.md  ({len(appendix_content):,} chars)")
+
     print(f"\n全部生成到 {OUT_DIR}/")
 
 
