@@ -129,25 +129,25 @@ openclaw session delete --id <sessionId>
 
 ---
 
-## 技能管理
+## Skill 管理
 
 ```bash
-# 查看已安装的技能
+# 查看已安装的 Skill
 openclaw skill list
 
-# 从 ClawHub 安装技能
+# 从 ClawHub 安装 Skill
 openclaw skill install <skill-name>
 
-# 更新技能
+# 更新 Skill
 openclaw skill update <skill-name>
 
-# 更新所有技能
+# 更新所有 Skill
 openclaw skill update --all
 
-# 卸载技能
+# 卸载 Skill
 openclaw skill remove <skill-name>
 
-# 搜索 ClawHub 上的技能
+# 搜索 ClawHub 上的 Skill
 openclaw skill search <keyword>
 ```
 

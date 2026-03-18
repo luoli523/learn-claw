@@ -1,6 +1,6 @@
 # 第15章：项目一——打造"双手机"全能个人助理
 
-前面十四章，你学了一堆概念：Workspace、记忆系统、会话管理、工具、技能、多 Agent、Webhook、Node……
+前面十四章，你学了一堆概念：Workspace、记忆系统、会话管理、工具、Skill、多 Agent、Webhook、Node……
 
 是时候把这些拼在一起，做出一个真正能用的东西了。
 
@@ -18,7 +18,7 @@
 |---|---|---|
 | **渠道** | Telegram（模拟工作号） | WhatsApp |
 | **性格** | 严谨、精确、有条理 | 轻松、友好、会聊天 |
-| **工具** | coding 画像 + browser | minimal 画像 + 日历技能 |
+| **工具** | coding 画像 + browser | minimal 画像 + 日历 Skill |
 | **早报** | 每天 8:30 推送工作摘要 | 每天 8:00 推送生活摘要 |
 | **记忆** | 独立 Workspace | 独立 Workspace |
 
@@ -122,7 +122,7 @@ cat > ~/.openclaw/workspace-life/TOOLS.md << 'EOF'
 
 工具画像：minimal
 
-## 技能
+## Skill
 
 - google-calendar（查看和创建日程）
 - weather（查询天气）
@@ -324,7 +324,7 @@ openclaw cron run --id <work-morning-id>
 |---|---|
 | Workspace + SOUL.md | 第5章 |
 | TOOLS.md 工具控制 | 第8章 |
-| 技能集成 | 第9章 |
+| Skill 集成 | 第9章 |
 | Cron 定时推送 | 第11章 |
 | 多 Agent + Binding 路由 | 第13章 |
 
