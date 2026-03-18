@@ -50,7 +50,7 @@ export default defineConfig({
         items: [
           { text: '本部分导读', link: '/part4-capabilities/' },
           { text: '第8章：内置工具', link: '/part4-capabilities/ch08-tools' },
-          { text: '第9章：技能生态', link: '/part4-capabilities/ch09-skills' },
+          { text: '第9章：Skill 生态', link: '/part4-capabilities/ch09-skills' },
           { text: '第10章：安全防线', link: '/part4-capabilities/ch10-security' },
         ],
       },

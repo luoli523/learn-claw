@@ -38,7 +38,7 @@
         <p class="part-desc">给 AI 装上工具和技能，让它真正能干活，同时约束它的行为边界。</p>
         <ul>
           <li><a href="/learn-claw/part4-capabilities/ch08-tools">第8章：内置工具——AI 的"瑞士军刀"</a></li>
-          <li><a href="/learn-claw/part4-capabilities/ch09-skills">第9章：技能生态——教会 AI 新能力</a></li>
+          <li><a href="/learn-claw/part4-capabilities/ch09-skills">第9章：Skill 生态——教会 AI 新能力</a></li>
           <li><a href="/learn-claw/part4-capabilities/ch10-security">第10章：安全防线——约束 AI 的行为边界</a></li>
         </ul>
       </div>
