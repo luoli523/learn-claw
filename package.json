@@ -1,0 +1,14 @@
+{
+  "name": "learn-claw",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "跟鬼哥一起学OpenClaw",
+  "scripts": {
+    "docs:dev": "vitepress dev book --port 5174",
+    "docs:build": "vitepress build book",
+    "docs:preview": "vitepress preview book"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}

@@ -1,0 +1,10 @@
+
+> learn-claw@1.0.0 docs:dev
+> vitepress dev book --port 5174
+
+
+  vitepress v1.6.4
+
+  ➜  Local:   http://localhost:5174/learn-claw/
+  ➜  Network: use --host to expose
+  ➜  press h to show help

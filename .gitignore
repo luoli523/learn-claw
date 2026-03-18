@@ -1,0 +1,7 @@
+node_modules/
+book/.vitepress/dist/
+book/.vitepress/cache/
+.DS_Store
+
+# PNG source images (WebP versions are committed in each chapter's images/ dir)
+book/images/

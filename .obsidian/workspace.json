@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "99ef055bc9af7a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c444163f0d34b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9751eb7aadcc42e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/part1-cognition/ch01-what-is-openclaw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ch01-what-is-openclaw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6dfa0b27e950498",
+    "type": "split",
+    "children": [
+      {
+        "id": "4811cb22b1966282",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc57e6e06c49408",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "652dbee7751df4da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fbe9c83863cedff1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d7e33844edef759",
+    "type": "split",
+    "children": [
+      {
+        "id": "8069461d0903716b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "502a48ddcb1a2eef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "book/part1-cognition/ch01-what-is-openclaw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ch01-what-is-openclaw"
+            }
+          },
+          {
+            "id": "bace5c4608993fb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "book/part1-cognition/ch01-what-is-openclaw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ch01-what-is-openclaw"
+            }
+          },
+          {
+            "id": "fdff478a31c0ca6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c12c9a7ef1cdac97",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fc9b2af5cbfb1604",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "book/part1-cognition/ch01-what-is-openclaw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ch01-what-is-openclaw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9751eb7aadcc42e0",
+  "lastOpenFiles": [
+    "book/part1-cognition/ch02-mental-model.md",
+    "book/images/guige_read.png",
+    "book/part4-capabilities/images/part4-index.webp",
+    "book/part4-capabilities/images/ch09-skills.webp",
+    "book/part4-capabilities/images/ch08-tools.webp",
+    "book/part4-capabilities/images/ch10-security.webp",
+    "book/part5-advanced/images/ch11-automation.webp",
+    "book/part5-advanced/images/part5-index.webp",
+    "book/part5-advanced/images/ch12-webhooks.webp",
+    "book/part5-advanced/images/ch14-nodes.webp",
+    "book/part5-advanced/images/ch13-multi-agent.webp",
+    "book/appendix/images",
+    "book/part6-projects/images",
+    "book/part5-advanced/images",
+    "book/part4-capabilities/images",
+    "book/part3-core/images",
+    "book/part2-quickstart/images",
+    "book/part1-cognition/images",
+    "book/images/part6-projects",
+    "book/images/part5-advanced",
+    "book/images/part4-capabilities",
+    "book/part1-cognition/ch01-what-is-openclaw.md",
+    "book/part2-quickstart/ch03-install.md",
+    "book/part2-quickstart/ch04-first-channel.md",
+    "book/part1-cognition/index.md",
+    "book/appendix/a-cli-reference.md",
+    "book/index.md"
+  ]
+}
